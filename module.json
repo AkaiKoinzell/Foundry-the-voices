@@ -47,5 +47,7 @@
       "entity": "Item",
       "type": "Item"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/AkaiKoinzell/Foundry-the-voices/main/module.json",
+  "download": "https://mega.nz/file/otwQ2ZIJ#iD4BFU53D01ljgrnrQiwWWHHPEpVPHG4UhADgNU8erY"
 }

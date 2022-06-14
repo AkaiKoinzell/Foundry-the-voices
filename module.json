@@ -1,0 +1,51 @@
+{
+  "name": "il-regno-di-wagham-the-voices",
+  "title": "Il Regno di Wagham - The Voices",
+  "description": "",
+  "author": "R20Converter",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "name": "journal",
+      "label": "Handouts (Il Regno di Wagham - The Voices)",
+      "path": "packs/journal.db",
+      "module": "il-regno-di-wagham-the-voices",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "actors",
+      "label": "Actors (Il Regno di Wagham - The Voices)",
+      "path": "packs/actors.db",
+      "module": "il-regno-di-wagham-the-voices",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items (Il Regno di Wagham - The Voices)",
+      "path": "packs/items.db",
+      "module": "il-regno-di-wagham-the-voices",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "decks",
+      "label": "Decks (Il Regno di Wagham - The Voices)",
+      "path": "packs/decks.db",
+      "module": "il-regno-di-wagham-the-voices",
+      "entity": "RollTable",
+      "type": "RollTable"
+    },
+    {
+      "name": "cards",
+      "label": "Deck Cards (Il Regno di Wagham - The Voices)",
+      "path": "packs/cards.db",
+      "module": "il-regno-di-wagham-the-voices",
+      "entity": "Item",
+      "type": "Item"
+    }
+  ]
+}
